@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0022_000.yaml, hash: 'sha256:d4eba51af96dec4d32a14827739835747aa327472c42f6cad27c52e6e135a995'}
+  - {seq: 0, filename: KR6d0022_000.yaml, hash: 'sha256:42a54132225e89d3ed653c722863e0b74b3be7aecd4a67105da6135bb5a3aa0c'}
   - {seq: 1, filename: KR6d0022_001.yaml, hash: 'sha256:24b971168aff469f3433079a83abb39bd6f9bd75994dbe3b5d0392e46b7cba23'}
   - {seq: 2, filename: KR6d0022_002.yaml, hash: 'sha256:94d363a4fc2ad38d78f732ec920987a15c33745186114f27caafc832fc179926'}
   - {seq: 3, filename: KR6d0022_003.yaml, hash: 'sha256:221a82f2f71480b668b0734f883f8c834222138667722326884167419d3f72aa'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 6, filename: KR6d0022_006.yaml, hash: 'sha256:57e57a2eb1489353c9e9a9f003a801e229934119b85a1038d1d418cb27972f12'}
   - {seq: 7, filename: KR6d0022_007.yaml, hash: 'sha256:67783632f2da444bdd6db581943cb439c84255bacc1b294a923765a4b5f85956'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0022_000.markers.yaml, hash: 'sha256:77e72ddb4349c855659b440784a67c1249a6a14fd978ab9804181f03a91c6494'}
+  - {seq: 0, role: markers, filename: assets/KR6d0022_000.markers.yaml, hash: 'sha256:e07727ecc2e69ca47655a5870edc3baa32eae95b74c7b9a4c7cdc11d498e91ef'}
   - {seq: 1, role: markers, filename: assets/KR6d0022_001.markers.yaml, hash: 'sha256:a3e52a9331340930c69d9ecf5b0f6d6f3ac67d53c24a12e1a1a9984b2fae7e6e'}
   - {seq: 2, role: markers, filename: assets/KR6d0022_002.markers.yaml, hash: 'sha256:40beaf0336e69e88db75f5bab2aa61959f52685c9c3bd691c4620fa1ed3edcf6'}
   - {seq: 3, role: markers, filename: assets/KR6d0022_003.markers.yaml, hash: 'sha256:a47ccd590e1206e3124faba0a88b059b1da0773649dc9c40e58dc494d62f933d'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0022_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 599-A 法華文句纂要序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0022_X_000-mulu-2
     span:
-    - front
+    - body
     - 1401
     - 1401
   label: 法華經文句纂要品目
@@ -449,7 +449,7 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:b9efa2b29a1eb49dd25bad1d1e012890663747e6790c962431dbe222ca352d17
+hash: sha256:d669f27a324efd108eac29ab75477b17afb33647428166f4c30d5a5a54d08e65
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
